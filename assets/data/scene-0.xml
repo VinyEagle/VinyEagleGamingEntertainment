@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="0" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="0" name="systemmenu" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <color-bg blue="0" green="0" red="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="0" name="background 1" sx="8.4375" sy="7.15625" x="288" y="192" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="4" name="open 2" sx="3.75" sy="3.78125" x="289" y="195" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="35" name="YOUTUBE 3" sx="1.34375" sy="1.15625" x="9" y="423" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="37" name="BackStory 4" sx="2.625" sy="2.3125" x="517" y="443" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,0.0,0.0,32.0,0.0,32.0,480.0,0.0,480.0" x="608.0" y="0.0"/>
+        <p pts="4,32.0,480.0,0.0,480.0,0.0,0.0,32.0,0.0" x="0.0" y="0.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

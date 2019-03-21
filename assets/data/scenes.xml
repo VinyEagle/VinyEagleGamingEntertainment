@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenes>
+    <scene desc="" format="3.4.0" id="0" name="systemmenu"/>
+    <scene desc="" format="3.4.0" id="1" name="loadtomain"/>
+    <scene desc="" format="3.4.0" id="2" name="welcome"/>
+    <scene desc="" format="3.4.0" id="3" name="key"/>
+    <scene desc="" format="3.4.0" id="4" name="ERROR"/>
+    <scene desc="" format="3.4.0" id="5" name="error1"/>
+    <scene desc="" format="3.4.0" id="6" name="error2"/>
+    <scene desc="" format="3.4.0" id="7" name="SYSTEMDOWN"/>
+    <scene desc="" format="3.4.0" id="8" name="NAV1"/>
+    <scene desc="" format="3.4.0" id="9" name="virus infected"/>
+    <scene desc="" format="3.4.0" id="10" name="hahaha"/>
+    <scene desc="" format="3.4.0" id="11" name="decide the outcome"/>
+    <scene desc="" format="3.4.0" id="12" name="filecorrupt outcome"/>
+    <scene desc="" format="3.4.0" id="13" name="safe fix 1"/>
+    <scene desc="" format="3.4.0" id="14" name="safe fix 2"/>
+    <scene desc="" format="3.4.0" id="15" name="safe fix 3"/>
+    <scene desc="" format="3.4.0" id="16" name="safe fix 4"/>
+    <scene desc="" format="3.4.0" id="17" name="realgame1"/>
+    <scene desc="" format="3.4.0" id="18" name="story1"/>
+    <scene desc="" format="3.4.0" id="19" name="story2"/>
+    <scene desc="" format="3.4.0" id="20" name="realgame2"/>
+    <scene desc="" format="3.4.0" id="21" name="realgame3"/>
+    <scene desc="" format="3.4.0" id="22" name="BY VEGE"/>
+    <scene desc="" format="3.4.0" id="23" name="SYSTEMDOWNINTRO"/>
+</scenes>

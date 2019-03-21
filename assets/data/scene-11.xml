@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="30" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="11" name="decide the outcome" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <color-bg blue="0" green="0" red="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="150" id="0" name="Region 0" pts="4,176.0,0.0,176.0,150.0,0.0,150.0,0.0,0.0" r="64" type="box" w="176" x="36" y="243"/>
+        <region b="64" g="64" h="156" id="1" name="Region 1" pts="4,176.0,0.0,176.0,156.0,0.0,156.0,0.0,0.0" r="64" type="box" w="176" x="427" y="239"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="2" c="false" group="3" id="26" name="d1 2" sx="5.3125" sy="5.5625" x="111" y="289" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="30" name="d2 3" sx="5.34375" sy="5.71875" x="503" y="289" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="4,288.0,480.0,0.0,480.0,0.0,0.0,288.0,0.0" x="0.0" y="0.0"/>
+        <p pts="4,288.0,480.0,0.0,480.0,0.0,0.0,288.0,0.0" x="352.0" y="0.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
