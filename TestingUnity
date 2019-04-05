@@ -1,1 +1,23 @@
+<!DOCTYPE HTML>
 
+<html>
+
+  <head>
+
+    <title>SystemDown | Game</title>
+
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+
+    <center>
+
+      <embed height="480" width="640" src="SystemDown.swf">
+
+    </center>
+
+  </body>
+
+</html>
